@@ -1,0 +1,54 @@
+body{
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+
+.extra1{
+    z-index: 2;
+    background-image: url(relokiri.png);
+    height: 4000px;
+    width: 4000px;
+    position: absolute;
+    right: 2000;
+    display: flex;
+    top: -1800px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+body{
+    border: 20px;
+    border-top: 20px;
+    border-color: rgb(241, 71, 128);
+    border-radius: 20px;
+    border-width: 20px;
+    border-style: double;
+}
+
+body {
+    background-image: url(kitty.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin: 0;
+    background-position-x: center;
+}
+
+
+body  {
+    color: rgb(27, 97, 70);
+}
+
+ 
+header{
+    color: rgb(255, 255, 255);
+    background: rgb(37, 153, 114);
+    padding: 1em;
+}
+
+h1{
+   
+    size: 150px;
+    text-shadow: 20px;
+    padding-top: 30px;
+}
